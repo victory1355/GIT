@@ -7,7 +7,7 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-//添加新的功能
+//添加新的功能：主分支
 void feature1..
 
 //添加一个新功能:feature1
