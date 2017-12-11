@@ -8,3 +8,5 @@ int main(int argc, char **argv)
 	return 0;
 }
 
+//添加一个新功能:feature1
+void feature1...
