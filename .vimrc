@@ -1,3 +1,6 @@
+"                       ================
+"                       我的vimrc配置文件
+"                       ================
 " An example for a vimrc file.
 "
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
@@ -157,7 +160,6 @@ colorscheme molokai
 call togglebg#map("<F5>")
 
 
-"                       我的vimrc配置文件
 
 "         mouse
 " In many terminal emulators the mouse works just fine, thus enable it.
